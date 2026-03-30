@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>My DevOps App</title>
+</head>
+
+<body>
+    <h1>🚀 My DevOps App</h1>
+
+    <input type="text" id="name" placeholder="Enter name">
+    <button onclick="addUser()">Add User</button>
+
+    <h2>User List</h2>
+    <ul id="list"></ul>
+
+    <script>
+        const API = "http://localhost:3000";
+
+        async function loadUsers() {
+            const res = await fetch(API + "/users");
+            const data = await res.json();
+
+            const list = document.getElementById("list");
+            list.innerHTML = "";
+
+            data.forEach(u => {
+                const li = document.createElement("li");
+                li.innerText = u.name;
+                list.appendChild(li);
+            });
+        }
+
+        async function addUser() {
+            const name = document.getElementById("name").value;
+
+            await fetch(API + "/users", {
+                method: "POST",
+                headers: {
+                    "Content-Type": "application/json"
+                },
+                body: JSON.stringify({ name })
+            });
+
+            document.getElementById("name").value = "";
+            loadUsers();
+        }
+
+        loadUsers();
+    </script>
+</body>
+
+</html>
