@@ -47,6 +47,30 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ConnectSQL.cs" />
+    <Compile Include="frmMenuTheoNgay.cs" />
+    <Compile Include="frmMenuTheoNgay.Designer.cs">
+      <DependentUpon>frmMenuTheoNgay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLichSuHoaDon.cs" />
+    <Compile Include="frmLichSuHoaDon.Designer.cs">
+      <DependentUpon>frmLichSuHoaDon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmThongKeBanHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmThongKeBanHang.Designer.cs">
+      <DependentUpon>frmThongKeBanHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmThongKeNhanVien.cs" />
+    <Compile Include="frmThongKeNhanVien.Designer.cs">
+      <DependentUpon>frmThongKeNhanVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmThongKeNgay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmThongKeNgay.Designer.cs">
+      <DependentUpon>frmThongKeNgay.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmBan.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -112,14 +136,29 @@
     <EmbeddedResource Include="frmKhachHang.resx">
       <DependentUpon>frmKhachHang.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="frmLichSuHoaDon.resx">
+      <DependentUpon>frmLichSuHoaDon.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frmLoaiDoUong.resx">
       <DependentUpon>frmLoaiDoUong.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmManHinhChinh.resx">
       <DependentUpon>frmManHinhChinh.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="frmMenuTheoNgay.resx">
+      <DependentUpon>frmMenuTheoNgay.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frmNhanVien.resx">
       <DependentUpon>frmNhanVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmThongKeBanHang.resx">
+      <DependentUpon>frmThongKeBanHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmThongKeNgay.resx">
+      <DependentUpon>frmThongKeNgay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmThongKeNhanVien.resx">
+      <DependentUpon>frmThongKeNhanVien.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
