@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Version 22
+VisualStudioVersion = 18.4.11612.150 stable
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhanMemQuanLyQuanCaffe", "PhanMemQuanLyQuanCaffe\PhanMemQuanLyQuanCaffe.csproj", "{D6211724-F5A3-457B-8149-45B5E99FBA82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Default|Any CPU = Default|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6211724-F5A3-457B-8149-45B5E99FBA82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6211724-F5A3-457B-8149-45B5E99FBA82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6211724-F5A3-457B-8149-45B5E99FBA82}.Default|Any CPU.ActiveCfg = Release|Any CPU
+		{D6211724-F5A3-457B-8149-45B5E99FBA82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6211724-F5A3-457B-8149-45B5E99FBA82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50814CB4-C732-458F-A7AB-9EB2EDB0C5C5}.Debug|Any CPU.ActiveCfg = Default
+		{50814CB4-C732-458F-A7AB-9EB2EDB0C5C5}.Default|Any CPU.ActiveCfg = Default
+		{50814CB4-C732-458F-A7AB-9EB2EDB0C5C5}.Release|Any CPU.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FC905DC-8410-4B08-8790-012D996CB80C}
+	EndGlobalSection
+EndGlobal
