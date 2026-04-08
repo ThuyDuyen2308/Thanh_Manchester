@@ -526,7 +526,7 @@ namespace PhanMemQuanLyQuanCaffe
             frmLichSuHoaDon frm = new frmLichSuHoaDon();
             frm.ShowDialog();
         }
-
+        // test git account
         // ================= MENU THEO NGÀY =================
         private void menuTheoNgàyToolStripMenuItem_Click(object sender, EventArgs e)
         {
