@@ -1,0 +1,52 @@
+D:\doancongnghephanmem\doancongnghephanmem\PhanMemQuanLyQuanCaffe\PhanMemQuanLyQuanCaffe\bin\Debug\PhanMemQuanLyQuanCaffe.exe.config
+D:\doancongnghephanmem\doancongnghephanmem\PhanMemQuanLyQuanCaffe\PhanMemQuanLyQuanCaffe\bin\Debug\PhanMemQuanLyQuanCaffe.exe
+D:\doancongnghephanmem\doancongnghephanmem\PhanMemQuanLyQuanCaffe\PhanMemQuanLyQuanCaffe\bin\Debug\PhanMemQuanLyQuanCaffe.pdb
+D:\doancongnghephanmem\doancongnghephanmem\PhanMemQuanLyQuanCaffe\PhanMemQuanLyQuanCaffe\obj\Debug\PhanMemQuanLyQuanCaffe.csproj.AssemblyReference.cache
+D:\doancongnghephanmem\doancongnghephanmem\PhanMemQuanLyQuanCaffe\PhanMemQuanLyQuanCaffe\obj\Debug\PhanMemQuanLyQuanCaffe.frmBan.resources
+D:\doancongnghephanmem\doancongnghephanmem\PhanMemQuanLyQuanCaffe\PhanMemQuanLyQuanCaffe\obj\Debug\PhanMemQuanLyQuanCaffe.frmDangNhap.resources
+D:\doancongnghephanmem\doancongnghephanmem\PhanMemQuanLyQuanCaffe\PhanMemQuanLyQuanCaffe\obj\Debug\PhanMemQuanLyQuanCaffe.frmDoiMatKhau.resources
+D:\doancongnghephanmem\doancongnghephanmem\PhanMemQuanLyQuanCaffe\PhanMemQuanLyQuanCaffe\obj\Debug\PhanMemQuanLyQuanCaffe.frmDoUong.resources
+D:\doancongnghephanmem\doancongnghephanmem\PhanMemQuanLyQuanCaffe\PhanMemQuanLyQuanCaffe\obj\Debug\PhanMemQuanLyQuanCaffe.frmKhachHang.resources
+D:\doancongnghephanmem\doancongnghephanmem\PhanMemQuanLyQuanCaffe\PhanMemQuanLyQuanCaffe\obj\Debug\PhanMemQuanLyQuanCaffe.frmLichSuHoaDon.resources
+D:\doancongnghephanmem\doancongnghephanmem\PhanMemQuanLyQuanCaffe\PhanMemQuanLyQuanCaffe\obj\Debug\PhanMemQuanLyQuanCaffe.frmLoaiDoUong.resources
+D:\doancongnghephanmem\doancongnghephanmem\PhanMemQuanLyQuanCaffe\PhanMemQuanLyQuanCaffe\obj\Debug\PhanMemQuanLyQuanCaffe.frmManHinhChinh.resources
+D:\doancongnghephanmem\doancongnghephanmem\PhanMemQuanLyQuanCaffe\PhanMemQuanLyQuanCaffe\obj\Debug\PhanMemQuanLyQuanCaffe.frmMenuTheoNgay.resources
+D:\doancongnghephanmem\doancongnghephanmem\PhanMemQuanLyQuanCaffe\PhanMemQuanLyQuanCaffe\obj\Debug\PhanMemQuanLyQuanCaffe.frmNhanVien.resources
+D:\doancongnghephanmem\doancongnghephanmem\PhanMemQuanLyQuanCaffe\PhanMemQuanLyQuanCaffe\obj\Debug\PhanMemQuanLyQuanCaffe.frmThongKeBanHang.resources
+D:\doancongnghephanmem\doancongnghephanmem\PhanMemQuanLyQuanCaffe\PhanMemQuanLyQuanCaffe\obj\Debug\PhanMemQuanLyQuanCaffe.frmThongKeNgay.resources
+D:\doancongnghephanmem\doancongnghephanmem\PhanMemQuanLyQuanCaffe\PhanMemQuanLyQuanCaffe\obj\Debug\PhanMemQuanLyQuanCaffe.frmThongKeNhanVien.resources
+D:\doancongnghephanmem\doancongnghephanmem\PhanMemQuanLyQuanCaffe\PhanMemQuanLyQuanCaffe\obj\Debug\PhanMemQuanLyQuanCaffe.Properties.Resources.resources
+D:\doancongnghephanmem\doancongnghephanmem\PhanMemQuanLyQuanCaffe\PhanMemQuanLyQuanCaffe\obj\Debug\PhanMemQuanLyQuanCaffe.csproj.GenerateResource.cache
+D:\doancongnghephanmem\doancongnghephanmem\PhanMemQuanLyQuanCaffe\PhanMemQuanLyQuanCaffe\obj\Debug\PhanMemQuanLyQuanCaffe.csproj.CoreCompileInputs.cache
+D:\doancongnghephanmem\doancongnghephanmem\PhanMemQuanLyQuanCaffe\PhanMemQuanLyQuanCaffe\obj\Debug\PhanMemQuanLyQuanCaffe.exe
+D:\doancongnghephanmem\doancongnghephanmem\PhanMemQuanLyQuanCaffe\PhanMemQuanLyQuanCaffe\obj\Debug\PhanMemQuanLyQuanCaffe.pdb
+T:\Do an cnpm 2\doancongnghephanmem\PhanMemQuanLyQuanCaffe\PhanMemQuanLyQuanCaffe\bin\Debug\PhanMemQuanLyQuanCaffe.exe
+T:\Do an cnpm 2\doancongnghephanmem\PhanMemQuanLyQuanCaffe\PhanMemQuanLyQuanCaffe\bin\Debug\PhanMemQuanLyQuanCaffe.pdb
+T:\Do an cnpm 2\doancongnghephanmem\PhanMemQuanLyQuanCaffe\PhanMemQuanLyQuanCaffe\bin\Debug\PhanMemQuanLyQuanCaffe.exe.config
+T:\Do an cnpm 2\doancongnghephanmem\PhanMemQuanLyQuanCaffe\PhanMemQuanLyQuanCaffe\obj\Debug\PhanMemQuanLyQuanCaffe.csproj.AssemblyReference.cache
+T:\Do an cnpm 2\doancongnghephanmem\PhanMemQuanLyQuanCaffe\PhanMemQuanLyQuanCaffe\obj\Debug\PhanMemQuanLyQuanCaffe.frmBan.resources
+T:\Do an cnpm 2\doancongnghephanmem\PhanMemQuanLyQuanCaffe\PhanMemQuanLyQuanCaffe\obj\Debug\PhanMemQuanLyQuanCaffe.frmDangNhap.resources
+T:\Do an cnpm 2\doancongnghephanmem\PhanMemQuanLyQuanCaffe\PhanMemQuanLyQuanCaffe\obj\Debug\PhanMemQuanLyQuanCaffe.frmDoiMatKhau.resources
+T:\Do an cnpm 2\doancongnghephanmem\PhanMemQuanLyQuanCaffe\PhanMemQuanLyQuanCaffe\obj\Debug\PhanMemQuanLyQuanCaffe.frmDoUong.resources
+T:\Do an cnpm 2\doancongnghephanmem\PhanMemQuanLyQuanCaffe\PhanMemQuanLyQuanCaffe\obj\Debug\PhanMemQuanLyQuanCaffe.frmKhachHang.resources
+T:\Do an cnpm 2\doancongnghephanmem\PhanMemQuanLyQuanCaffe\PhanMemQuanLyQuanCaffe\obj\Debug\PhanMemQuanLyQuanCaffe.frmLichSuHoaDon.resources
+T:\Do an cnpm 2\doancongnghephanmem\PhanMemQuanLyQuanCaffe\PhanMemQuanLyQuanCaffe\obj\Debug\PhanMemQuanLyQuanCaffe.frmLoaiDoUong.resources
+T:\Do an cnpm 2\doancongnghephanmem\PhanMemQuanLyQuanCaffe\PhanMemQuanLyQuanCaffe\obj\Debug\PhanMemQuanLyQuanCaffe.frmManHinhChinh.resources
+T:\Do an cnpm 2\doancongnghephanmem\PhanMemQuanLyQuanCaffe\PhanMemQuanLyQuanCaffe\obj\Debug\PhanMemQuanLyQuanCaffe.frmMenuTheoNgay.resources
+T:\Do an cnpm 2\doancongnghephanmem\PhanMemQuanLyQuanCaffe\PhanMemQuanLyQuanCaffe\obj\Debug\PhanMemQuanLyQuanCaffe.frmNhanVien.resources
+T:\Do an cnpm 2\doancongnghephanmem\PhanMemQuanLyQuanCaffe\PhanMemQuanLyQuanCaffe\obj\Debug\PhanMemQuanLyQuanCaffe.frmThongKeBanHang.resources
+T:\Do an cnpm 2\doancongnghephanmem\PhanMemQuanLyQuanCaffe\PhanMemQuanLyQuanCaffe\obj\Debug\PhanMemQuanLyQuanCaffe.frmThongKeNgay.resources
+T:\Do an cnpm 2\doancongnghephanmem\PhanMemQuanLyQuanCaffe\PhanMemQuanLyQuanCaffe\obj\Debug\PhanMemQuanLyQuanCaffe.frmThongKeNhanVien.resources
+T:\Do an cnpm 2\doancongnghephanmem\PhanMemQuanLyQuanCaffe\PhanMemQuanLyQuanCaffe\obj\Debug\PhanMemQuanLyQuanCaffe.Properties.Resources.resources
+T:\Do an cnpm 2\doancongnghephanmem\PhanMemQuanLyQuanCaffe\PhanMemQuanLyQuanCaffe\obj\Debug\PhanMemQuanLyQuanCaffe.csproj.GenerateResource.cache
+T:\Do an cnpm 2\doancongnghephanmem\PhanMemQuanLyQuanCaffe\PhanMemQuanLyQuanCaffe\obj\Debug\PhanMemQuanLyQuanCaffe.csproj.CoreCompileInputs.cache
+T:\Do an cnpm 2\doancongnghephanmem\PhanMemQuanLyQuanCaffe\PhanMemQuanLyQuanCaffe\obj\Debug\PhanMemQuanLyQuanCaffe.exe
+T:\Do an cnpm 2\doancongnghephanmem\PhanMemQuanLyQuanCaffe\PhanMemQuanLyQuanCaffe\obj\Debug\PhanMemQuanLyQuanCaffe.pdb
+T:\Do an cnpm 2\doancongnghephanmem\PhanMemQuanLyQuanCaffe\PhanMemQuanLyQuanCaffe\obj\Debug\PhanMemQuanLyQuanCaffe.frmChuyenBan.resources
+T:\Do an cnpm 2\doancongnghephanmem\PhanMemQuanLyQuanCaffe\PhanMemQuanLyQuanCaffe\obj\Debug\PhanMemQuanLyQuanCaffe.frmGopBan.resources
+T:\Do an cnpm 2\doancongnghephanmem\PhanMemQuanLyQuanCaffe\PhanMemQuanLyQuanCaffe\obj\Debug\PhanMemQuanLyQuanCaffe.frmLichSuNgayLam.resources
+T:\Do an cnpm 2\doancongnghephanmem\PhanMemQuanLyQuanCaffe\PhanMemQuanLyQuanCaffe\bin\Debug\BouncyCastle.Cryptography.dll
+T:\Do an cnpm 2\doancongnghephanmem\PhanMemQuanLyQuanCaffe\PhanMemQuanLyQuanCaffe\bin\Debug\itextsharp.dll
+T:\Do an cnpm 2\doancongnghephanmem\PhanMemQuanLyQuanCaffe\PhanMemQuanLyQuanCaffe\bin\Debug\BouncyCastle.Cryptography.xml
+T:\Do an cnpm 2\doancongnghephanmem\PhanMemQuanLyQuanCaffe\PhanMemQuanLyQuanCaffe\bin\Debug\itextsharp.xml
+T:\Do an cnpm 2\doancongnghephanmem\PhanMemQuanLyQuanCaffe\PhanMemQuanLyQuanCaffe\obj\Debug\PhanMemQ.8CF6201D.Up2Date
